@@ -1,0 +1,1 @@
+#pragma once/* parseTree.c */int setVariable(char *, long double);void *parse(char *[], int *, char[]);long double eval(void *, int *);void disposParseTree(void *);
